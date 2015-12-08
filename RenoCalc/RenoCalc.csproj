@@ -33,6 +33,7 @@
     <Reference Include="Hearthstone Deck Tracker">
       <HintPath>..\..\..\..\..\Downloads\Hearthstone.Deck.Tracker-v0.12.1\Hearthstone Deck Tracker\Hearthstone Deck Tracker.exe</HintPath>
     </Reference>
+    <Reference Include="PresentationFramework" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -43,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Plugin.cs" />
     <Compile Include="RenoCalc.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
