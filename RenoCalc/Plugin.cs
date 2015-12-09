@@ -2,6 +2,7 @@
 using System.Windows.Controls;
 
 using Hearthstone_Deck_Tracker.Plugins;
+using MahApps.Metro.Controls.Dialogs;
 
 namespace RenoCalc
 {
